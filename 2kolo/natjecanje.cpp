@@ -22,5 +22,4 @@ int main(void) {
     zgrada++;
   }
   cout << zgrada << endl;
-  cout << "proba";
 }
